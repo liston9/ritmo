@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zNkxR8gQfc8=",
+  "success": true,
+  "projectFilePath": "/Users/oliver/Projects/ritmo/backend/Ritmo/API/API.csproj",
+  "expectedPackageFiles": [
+    "/Users/oliver/.nuget/packages/microsoft.aspnetcore.openapi/9.0.3/microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "/Users/oliver/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
