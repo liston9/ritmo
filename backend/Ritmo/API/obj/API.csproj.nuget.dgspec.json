@@ -48,6 +48,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "com.strava.v3.api": {
+              "target": "Package",
+              "version": "[5.0.5, )"
             }
           },
           "imports": [
